@@ -2,8 +2,7 @@
 ## URL Fuzzer written in C
 ### Usage:
 Compile:
-``` gcc main.c -lcurl -lpthread
-```
+``` gcc main.c -lcurl -lpthread```
 run:
 ```
 ./a.out -url <url> -w <wordlist path> -threads <number of threads>
