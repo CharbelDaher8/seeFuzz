@@ -4,8 +4,7 @@
 Compile:
 ``` gcc main.c -lcurl -lpthread```
 run:
-```
-./a.out -url <url> -w <wordlist path> -threads <number of threads>
+```./a.out -url <url> -w <wordlist path> -threads <number of threads>
 ```
 example:
 ```
