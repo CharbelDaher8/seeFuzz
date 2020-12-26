@@ -1,4 +1,4 @@
-# CFuzzer
+# seeFuzz
 ## URL Fuzzer written in C
 ### Usage:
 Compile:
